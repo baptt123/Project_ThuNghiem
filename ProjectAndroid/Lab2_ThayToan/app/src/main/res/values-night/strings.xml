@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android">Android\n</string>
+    <string name="web">Web\n</string>
+    <string name="IC3">IC3\n</string>
+    <string name="ok">OK\n</string>
+</resources>
