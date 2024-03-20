@@ -5,13 +5,34 @@
       <entry key="DemoGoogleMap.app">
         <State />
       </entry>
+      <entry key="DemoGoogleMap.app.androidTest">
+        <State />
+      </entry>
+      <entry key="DemoGoogleMap.app.main">
+        <State />
+      </entry>
+      <entry key="DemoGoogleMap.app.unitTest">
+        <State />
+      </entry>
       <entry key="Form.app">
         <State />
       </entry>
       <entry key="Lab1.app">
         <State />
       </entry>
+      <entry key="Lab2.app">
+        <State />
+      </entry>
       <entry key="Test.app">
+        <State />
+      </entry>
+      <entry key="Test.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Test.app.main">
+        <State />
+      </entry>
+      <entry key="Test.app.unitTest">
         <State />
       </entry>
     </value>

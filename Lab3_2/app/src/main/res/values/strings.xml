@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3_2</string>
+    <string name="enter_text_1">Enter text 1</string>
+    <string name="enter_text_2">Enter text 2</string>
+    <string name="enter_text_3">Enter text 3</string>
+    <string name="click_me">Click me</string>
+</resources>

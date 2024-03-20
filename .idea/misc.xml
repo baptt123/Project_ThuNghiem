@@ -3,6 +3,9 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ProjectAndroid/DemoGoogleMap" />
+    <file type="web" url="file://$PROJECT_DIR$/ProjectAndroid/Lab1_ThayToan" />
+    <file type="web" url="file://$PROJECT_DIR$/ProjectAndroid/Lab2_ThayToan" />
+    <file type="web" url="file://$PROJECT_DIR$/ProjectAndroid/Test_Weather_Project" />
     <file type="web" url="file://$PROJECT_DIR$/ProjectTestISomething/Form" />
   </component>
   <component name="MavenProjectsManager">
