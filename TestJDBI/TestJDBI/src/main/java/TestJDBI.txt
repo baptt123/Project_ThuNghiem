@@ -1,0 +1,28 @@
+import com.mysql.cj.jdbc.MysqlDataSource;
+import org.jdbi.v3.core.Jdbi;
+
+import java.sql.SQLException;
+import java.util.List;
+
+public class TestJDBI {
+    public static Jdbi jdbi;
+
+    public Jdbi getConnect() throws SQLException {
+        MysqlDataSource mysqlDataSource = new MysqlDataSource();
+        String url = "jdbc:mysql://localhost:3306/gemstore";
+        mysqlDataSource.setURL(url);
+        mysqlDataSource.setUser(Property.DB_NAME);
+        mysqlDataSource.setPassword(Property.PASS);
+        mysqlDataSource.setAutoReconnect(true);
+        mysqlDataSource.setUseCompression(true);
+        return jdbi = Jdbi.create(mysqlDataSource);
+    }
+
+    public static void main(String[] args) throws SQLException {
+        TestJDBI testJDBI=new TestJDBI();
+    List<User> list=    testJDBI.getConnect().withHandle(handle -> {
+            return handle.createQuery("Select username,password from users").mapToBean(User.class).list();
+        });
+        System.out.println(list);
+    }
+}
