@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="username">Họ và tên</string>
+    <string name="phone">Số điện thoại\n</string>
+    <string name="email">Email\n</string>
+    <string name="address">Địa chỉ</string>
+    <string name="date">Ngày sinh</string>
+    <string name="male">Nam\n</string>
+    <string name="female">Nữ\n</string>
+    <string name="group">Nhóm với ai(Nếu có)\n</string>
+    <string name="android">Android\n</string>
+    <string name="web">Web\n</string>
+    <string name="IC3">IC3\n</string>
+    <string name="ok">OK\n</string>
+</resources>

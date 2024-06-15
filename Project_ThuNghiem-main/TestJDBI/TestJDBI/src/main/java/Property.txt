@@ -1,0 +1,4 @@
+public class Property {
+    public static  final String DB_NAME="root";
+    public static final String PASS="";
+}

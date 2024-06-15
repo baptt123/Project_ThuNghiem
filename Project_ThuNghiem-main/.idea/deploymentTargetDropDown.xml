@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="Form.app">
+        <State />
+      </entry>
+      <entry key="Form.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Form.app.main">
+        <State />
+      </entry>
+      <entry key="Form.app.unitTest">
+        <State />
+      </entry>
+      <entry key="Lab1.app">
+        <State />
+      </entry>
+      <entry key="Lab2.app">
+        <State />
+      </entry>
+      <entry key="Lab2.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Lab2.app.main">
+        <State />
+      </entry>
+      <entry key="Lab2.app.unitTest">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
