@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589217353211",
+    "project_id": "demosavefilefirebase",
+    "storage_bucket": "demosavefilefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589217353211:android:78d751e4bfbeb7212b4f5e",
+        "android_client_info": {
+          "package_name": "com.test.setupfragmentforsearchandformupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0BX2qLzb_SpCLDUjVIVpVgHdFtUT56A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
